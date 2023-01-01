@@ -3,7 +3,7 @@
 
 下载地址：
 ---------------
-  release
+  https://github.com/finitebull/1/releases/tag/hezuo_win10_x64_v0.0.1
   
 价格：
 -------------
