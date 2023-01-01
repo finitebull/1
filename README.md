@@ -8,8 +8,10 @@
 
 实际演示：
 --------------
+前期效果：
 [![Watch the video](https://i2.hdslb.com/bfs/archive/303a4497cf6b431703f5ff5498ceb5f85a0ad042.jpg@320w_200h)](https://www.bilibili.com/video/BV1RK411174f/)
-
+后期效果：
+[![Watch the video](https://i2.hdslb.com/bfs/archive/303a4497cf6b431703f5ff5498ceb5f85a0ad042.jpg@320w_200h)]https://www.bilibili.com/video/BV1Yd4y1777t/?vd_source=42cda5a0c779ca6427c28a9c9ebe5c78)
 
 价格：
 -------------
