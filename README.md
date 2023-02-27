@@ -4,7 +4,7 @@
 
 下载地址：
 ---------------
-    github下载:    https://github.com/finitebull/1/releases/tag/hezuo_win10_x64_v0.0.1
+    github下载:    https://github.com/finitebull/1/releases
 
 实际演示：
 --------------
